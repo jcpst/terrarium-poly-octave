@@ -13,6 +13,8 @@ set(FIRMWARE_SOURCES
     util/Mapping.h
     util/Multirate.h
     util/OctaveGenerator.h
+    util/PitchTracker.h
+    util/Sampler.h
     util/Terrarium.h
     util/Terrarium.cpp
 )
